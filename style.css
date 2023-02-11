@@ -121,8 +121,9 @@ body{
 @media only screen and (max-width: 856px){
     
     body{
-        background-size: cover;
-        height: 1500px;
+        background-size:auto;
+        background-repeat: repeat-y;
+        
     }
     
     .camel{
